@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AI Image Generator is a cutting-edge platform that utilizes the Brilliant OpenAI and Cloudinary API to create and store stunning, AI-generated images. With a focus on simplicity and beauty, our platform offers a seamless user experience through an intuitive input form and minimalistic prompts.
+Prompt is a cutting-edge platform that utilizes the Brilliant OpenAI and Cloudinary API to create and store stunning, AI-generated images. With a focus on simplicity and beauty, our platform offers a seamless user experience through an intuitive input form and minimalistic prompts.
 
 ## Key Features
 
